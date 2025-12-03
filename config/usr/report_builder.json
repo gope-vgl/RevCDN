@@ -1,0 +1,9 @@
+{
+  "hosts_path": "data/hosts.json",
+  "credentials_path": "data/credentials.json",
+  "report_file": "output/report.json",
+  "log_to_file": "False",
+  "log_to_console": "True",
+  "log_level": "DEBUG",
+  "logfile_path": "/var/log/cdn_report/logger.log"
+}
