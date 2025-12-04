@@ -1,5 +1,5 @@
 import json
-from exceptions import FailedToOpenFile
+from .exceptions import FailedToOpenFile
 
 def json_load(path: str) -> dict[str, str]:
     try:
